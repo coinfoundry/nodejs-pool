@@ -8,6 +8,14 @@
     "mixIn": 4,
     "shortCode": "XMR"
   },
+  "etn": {
+    "funcFile": "./lib/coins/etn.js",
+    "sigDigits": 1000000000000,
+    "xmrTo": false,
+    "name": "Electroneum",
+    "mixIn": 4,
+    "shortCode": "ETN"
+  },
   "krb": {
     "funcFile": "./lib/coins/krb.js",
     "sigDigits": 1000000000000,
