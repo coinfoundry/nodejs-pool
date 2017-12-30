@@ -75,3 +75,4 @@ jspm_packages
 .yarn-integrity
 
 config.json
+.vscode/temp.sql
