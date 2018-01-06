@@ -76,3 +76,4 @@ jspm_packages
 
 config.json
 .vscode/temp.sql
+/.vscode/temp.sql
