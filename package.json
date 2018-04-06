@@ -32,6 +32,7 @@
   },
   "optionalDependencies": {
     "cryptonote-util": "git+https://github.com/coinfoundry/node-cryptonote-util.git#xmr-Nan-2.0",
-    "multi-hashing": "git+https://github.com/Snipa22/node-multi-hashing-aesni.git"
+    "cryptonight-hashing": "git+https://github.com/MoneroOcean/node-cryptonight-hashing.git",
+    "multi-hashing": "git+https://github.com/Snipa22/node-multi-hashing-aesni.git#v0.1"
   }
 }
