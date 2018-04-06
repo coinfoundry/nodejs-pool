@@ -28,7 +28,7 @@
     "sprintf-js": "^1.0.3",
     "uuid": "3.0.1",
     "wallet-address-validator": "0.1.0",
-    "zeromq": "^4.6.0",
+    "zeromq": "git+https://github.com/coinfoundry/zeromq.js.git",
     "protobufjs": "^6.8.6"
   },
   "optionalDependencies": {
