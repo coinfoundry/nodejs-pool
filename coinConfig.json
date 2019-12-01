@@ -7,27 +7,5 @@
     "name": "Monero",
     "mixIn": 4,
     "shortCode": "XMR"
-  },
-  "etn": {
-    "funcFile": "./lib/coins/etn.js",
-    "sigDigits": 1000000000000,
-    "xmrTo": false,
-    "name": "Electroneum",
-    "mixIn": 4,
-    "shortCode": "ETN"
-  },
-  "krb": {
-    "funcFile": "./lib/coins/krb.js",
-    "sigDigits": 1000000000000,
-    "name": "Karbowanec",
-    "mixIn": 4,
-    "shortCode": "KRB"
-  },
-  "aeon": {
-    "funcFile": "./lib/coins/aeon.js",
-    "sigDigits": 1000000000000,
-    "name": "Aeon Coin",
-    "mixIn": 4,
-    "shortCode": "AEON"
   }
 }
